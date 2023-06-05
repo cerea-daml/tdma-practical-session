@@ -1,0 +1,14 @@
+name: tdma
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - seaborn
+  - plotly
+  - tqdm
+  - jupyterlab
+  - ipywidgets
+  - pip
+  - pip:
+    - tensorflow
