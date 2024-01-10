@@ -3,6 +3,8 @@
 #### Marc Bocquet¹ [marc.bocquet@enpc.fr](mailto:marc.bocquet@enpc.fr) and Alban Farchi¹ [alban.farchi@enpc.fr](mailto:alban.farchi@enpc.fr)
 ##### (1) CEREA, École des Ponts and EdF R&D, IPSL, Île-de-France, France
 
+[![DOI](https://zenodo.org/badge/639316033.svg)](https://zenodo.org/doi/10.5281/zenodo.10479131)
+
 During this session, we will apply standard machine learning methods to learn the dynamics of the Lorenz 1996 model. 
 The objective here is to get a preview of how machine learning can be applied to geoscientific models in a low-order models where testing is quick.
 
